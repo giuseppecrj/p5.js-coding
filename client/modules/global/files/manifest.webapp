@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "HS Boilerplate",
+  "launch_path": "/index.html",
+  "description": "A front-end template that helps you build fast, modern mobile web apps.",
+  "icons": {
+    "128": "/images/touch/icon.png"
+  },
+  "developer": {
+    "name": "",
+    "url": ""
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "HS Boilerplate",
+      "description": "A front-end template that helps you build fast, modern mobile web apps."
+    }
+  }
+}

@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  G -- Developer -- @giusepperj
+
+# THANKS
+
+  Herman-Scheer
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3, Angularjs
